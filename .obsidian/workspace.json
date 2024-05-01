@@ -11,11 +11,9 @@
             "id": "64f65ebbdffa50cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Realestate/2. Sai Gon.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240501215925.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realestate/2. Sai Gon.md",
+                "file": "Pasted image 20240501215925.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realestate/2. Sai Gon.md",
+                "file": "Pasted image 20240501215925.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realestate/2. Sai Gon.md"
+                "file": "Pasted image 20240501215925.png"
               }
             }
           }
@@ -150,12 +148,14 @@
   },
   "active": "64f65ebbdffa50cf",
   "lastOpenFiles": [
-    "Realestate/1. North South Pathway.md",
     "Realestate/6. Dong Nai.md",
+    "Pasted image 20240501215925.png",
+    "Realestate/Images/Vanh Dai Phia Nam.png",
+    "Realestate/2. Sai Gon.md",
+    "Realestate/1. North South Pathway.md",
     "Realestate/5. Binh Phuoc.md",
     "Realestate/4. Da Nang.md",
     "Realestate/3. Dak Lak.md",
-    "Realestate/2. Sai Gon.md",
     "Realestate/Images/Giao Thong Long Thanh.png",
     "Realestate/Images/Long Thanh Airport.png",
     "Realestate/Images/Ring HCM.png",
