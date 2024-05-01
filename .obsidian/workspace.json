@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8934473e654fa698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Realestate/2. Sai Gon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,14 +148,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8934473e654fa698",
+  "active": "64f65ebbdffa50cf",
   "lastOpenFiles": [
-    "Realestate/Images/Ring HCM.png",
-    "Realestate/2. Sai Gon.md",
     "Realestate/1. North South Pathway.md",
-    "Realestate/4. Da Nang.md",
+    "Realestate/6. Dong Nai.md",
     "Realestate/5. Binh Phuoc.md",
+    "Realestate/4. Da Nang.md",
     "Realestate/3. Dak Lak.md",
+    "Realestate/2. Sai Gon.md",
+    "Realestate/Images/Giao Thong Long Thanh.png",
+    "Realestate/Images/Long Thanh Airport.png",
+    "Realestate/Images/Ring HCM.png",
     "Realestate/Images/Middle Pathway.png",
     "Realestate/Images/Full Pathway.png",
     "Realestate/Images/South Pathway.png",
