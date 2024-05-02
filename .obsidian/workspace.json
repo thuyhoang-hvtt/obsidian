@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3473d14bcea83c39",
+        "id": "bb87d5d4bd6c67dc",
         "type": "tabs",
         "children": [
           {
-            "id": "64f65ebbdffa50cf",
+            "id": "0cc9bf1a0ac5c4ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240501215925.png"
+                "file": "Realestate/6. Dong Nai.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240501215925.png",
+                "file": "Realestate/6. Dong Nai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240501215925.png",
+                "file": "Realestate/6. Dong Nai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240501215925.png"
+                "file": "Realestate/6. Dong Nai.md"
               }
             }
           }
@@ -146,10 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64f65ebbdffa50cf",
+  "active": "0cc9bf1a0ac5c4ef",
   "lastOpenFiles": [
+    "Realestate/Images/Long Thanh Full.png",
     "Realestate/6. Dong Nai.md",
-    "Pasted image 20240501215925.png",
+    "Realestate/Images/Nhon Trach Full.png",
     "Realestate/Images/Vanh Dai Phia Nam.png",
     "Realestate/2. Sai Gon.md",
     "Realestate/1. North South Pathway.md",
