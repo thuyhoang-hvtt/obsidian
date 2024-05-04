@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb87d5d4bd6c67dc",
+        "id": "5bb364225a641140",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc9bf1a0ac5c4ef",
+            "id": "2b1b007a082c83c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realestate/2. Sai Gon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realestate/2. Sai Gon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realestate/2. Sai Gon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Realestate/2. Sai Gon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cc9bf1a0ac5c4ef",
+  "active": "2b1b007a082c83c6",
   "lastOpenFiles": [
     "Realestate/6. Dong Nai.md",
+    "Realestate/5. Binh Phuoc.md",
+    "Realestate/1. North South Pathway.md",
+    "Realestate/2. Sai Gon.md",
     "Realestate/Images/Long Thanh Full.png",
     "Realestate/Images/Nhon Trach Full.png",
     "Realestate/Images/Vanh Dai Phia Nam.png",
-    "Realestate/2. Sai Gon.md",
-    "Realestate/1. North South Pathway.md",
-    "Realestate/5. Binh Phuoc.md",
     "Realestate/4. Da Nang.md",
     "Realestate/3. Dak Lak.md",
     "Realestate/Images/Giao Thong Long Thanh.png",
